@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="sge-mobile-app1" src="https://i.imgur.com/MFHtOU7.jpg" width="200" heigth="416" />
     <img alt="sge-mobile-app2" src="https://i.imgur.com/2ZoxsxR.jpg" width="200" heigth="416" />
-    <img alt="sge-mobile-app3" src="https://i.imgur.com/MFHtOU7.jpg" width="200" heigth="416" />
+    <img alt="sge-mobile-app3" src="https://i.imgur.com/NjTwadg.jpg" width="200" heigth="416" />
 </h1>
 
 <h3 align="center">
