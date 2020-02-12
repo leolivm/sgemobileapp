@@ -27,7 +27,7 @@
 
 ## :computer: Tecnologias utilizadas:
 
-- ⚛️ React Native no mobile.
+- 📱 React Native no mobile.
 - ☕️ Node.js no Back-End.
 
 ## :dvd: Instalação:
