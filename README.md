@@ -23,6 +23,7 @@
 ## :cold_sweat: Desafios encontrados:
 
 - AsyncStorage para armazenamento e recuperação de configurações.
+- Redux para peristir login na aplicação.
 
 ## :computer: Tecnologias utilizadas:
 
