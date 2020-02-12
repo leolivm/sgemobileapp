@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="sge-mobile-app1" src="https://i.imgur.com/MFHtOU7.jpg" width="200" heigth="416" />
-    <img alt="sge-mobile-app2" src="https://i.imgur.com/2ZoxsxR.jpg" />
-    <img alt="sge-mobile-app3" src="https://i.imgur.com/MFHtOU7.jpg" />
+    <img alt="sge-mobile-app2" src="https://i.imgur.com/2ZoxsxR.jpg" width="200" heigth="416" />
+    <img alt="sge-mobile-app3" src="https://i.imgur.com/MFHtOU7.jpg" width="200" heigth="416" />
 </h1>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="http://sgeinformatica.com.br/">
-    <img alt="Made by Sge" src="https://i.imgur.com/Dm7Xym9.png">
+    <img alt="Made by Sge" src="https://i.imgur.com/Dm7Xym9.png" width="70" heigth="20">
   </a>
 </p>
 
